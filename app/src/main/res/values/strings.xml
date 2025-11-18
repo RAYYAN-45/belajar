@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KonversiSuhu</string>
+    <string name="str_masukkan_nilai_celcius">Masukkan Nilai Celcius</string>
+    <string name="str_reamur">Reamur</string>
+    <string name="str_kelvin">Kelvin</string>
+    <string name="str_fahrenheit">Fahrenheit</string>
+    <string name="str_konversi">Konversi</string>
+    <string name="str_konversi_suhu">Konversi Suhu</string>
+    <string name="str_celcius_to_reamur">Celcius to Reamur</string>
+
+</resources>
