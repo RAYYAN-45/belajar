@@ -13,6 +13,9 @@
         android:theme="@style/Theme.KonversiSuhu"
         tools:targetApi="31">
         <activity
+            android:name=".detail_resep"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
